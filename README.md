@@ -41,9 +41,9 @@ Analyze logs in Excel/Sheets for reporting
 
 <img width="1687" height="416" alt="image" src="https://github.com/user-attachments/assets/c45d17d2-002e-4c8c-9708-19f70e177c79" />
 
-![alt text](image-1.png)
+<img width="1489" height="601" alt="image" src="https://github.com/user-attachments/assets/591a57af-0389-44c0-ab69-50419ed3fb0c" />
 
-![alt text](image-2.png)
+<img width="1577" height="798" alt="image" src="https://github.com/user-attachments/assets/99ad5509-5640-441d-b2be-68d1eaa26f61" />
 
 ## Result
 
