@@ -1,10 +1,6 @@
 # Activity-audit
 # EX - 4 Auditing Cloud Activity Using AWS CloudTrail
 
-```
-Name : Muhammad Afshan A
-Register Number : 212223100035
-```
 ## Aim
 
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
